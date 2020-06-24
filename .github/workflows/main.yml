@@ -1,4 +1,4 @@
-name: IBM Cloud Restart
+name: IBM Cloud  Restart
 
 on:
   push:
